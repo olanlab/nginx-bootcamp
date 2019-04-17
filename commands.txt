@@ -1,0 +1,3 @@
+docker run -d --name my-nginx -p 8080:80 nginx
+/usr/share/nginx/html
+/etc/nginx/
